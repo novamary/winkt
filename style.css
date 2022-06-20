@@ -1,0 +1,88 @@
+body {
+ /* background-image: url(map.jpeg); */
+    background-color: #ED2D67;
+  }
+  .head {
+    text-align: center; 
+    font-family: "Helvetica Neue";
+    font-size: 70px;
+    padding: 170px 0;
+    color: white;
+ 
+  }
+  .btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 25;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  /* Green */
+  .Anmelden {
+    border-color: white;
+    background-color: transparent;
+    color:white;
+    top: 50%;
+    
+    border-radius: 25px;
+  }
+  
+  .Anmelden:hover {
+    background-color: white;
+    color: #ED2D67;
+
+    
+  }
+  /* Blue */
+  .Kontoerstellen{
+    border-color: white;
+    background-color: transparent;
+    color:white;
+    top: 60%;
+    border-radius: 25px;
+
+  }
+  
+  .Kontoerstellen:hover {
+    background-color: white;
+    color: #ED2D67;
+    
+  }
+  /*.lgn {
+    padding: 14px 28px;
+    font-size: 20px;
+    margin: 25;
+    width:200px;
+    height:150px;
+    border: none; /* <-- This thing here*/
+   /* border:solid 1px #ccc;
+    border-radius: 15px;
+    perspective: 1px;
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }*/
+
+  .col-75
+  {
+    width: 60%;
+      height: 25px;
+      margin: 0 auto;
+      border: none; /* <-- This thing here */
+      border:solid 1px #ccc;
+      border-radius: 10px;
+  }
+  
+  
+  
+    
+      
